@@ -3,5 +3,8 @@
     "firebase": "^9.13.0",
     "firebase-tools": "^11.15.0",
     "node": "^19.0.0"
+},
+  "scripts": {
+    "build": ""
   }
 }
