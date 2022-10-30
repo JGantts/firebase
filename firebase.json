@@ -23,6 +23,7 @@
     }
   ],
   "hosting": {
+    "site": "com-jgantts-firebase"
     "public": "public",
     "ignore": [
       "firebase.json",
